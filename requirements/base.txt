@@ -1,0 +1,20 @@
+django-environ==0.4.5
+django-cors-headers==3.1.0
+ConcurrentLogHandler==0.9.1
+Django==3.1
+djangorestframework==3.11.0
+markdown==3.2.2
+PyYAML==5.3
+ipython==7.7.0
+requests==2.22.0
+pycrypto==2.6.1
+xmltodict
+djangorestframework-xml==2.0.0
+django-rest-swagger
+## forked from django_xworkflows
+# git+https://github.com/lethe3000/django_xworkflows.git@0.12.3-fix
+# django-xworkflows-3==0.12.3.1
+django-auth-ldap
+cryptography==3.1
+django-crum
+kubernetes

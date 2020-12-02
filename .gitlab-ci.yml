@@ -1,0 +1,6 @@
+include:
+  - project: 'devops/gitlabci-scaffold-pub'
+    file: '/python/django.yml'
+
+variables:
+  RUN: "true"

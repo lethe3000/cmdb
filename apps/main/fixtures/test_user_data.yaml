@@ -1,0 +1,10 @@
+- model: auth.user
+  pk: 1
+  fields:
+    password: pbkdf2_sha256$216000$rDEW2nxirO88$5sLGlsDvrfOO8fBoyYBhzp0FGeujrbTFkFus8ZiOO1g=
+    is_superuser: true
+    is_staff: true
+    is_active: true
+    username: user
+    email: user@newhope.cn
+    date_joined: 2020-10-29T06:30:08.158Z

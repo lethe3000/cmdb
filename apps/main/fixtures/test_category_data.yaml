@@ -1,0 +1,12 @@
+- model: main.category
+  pk: 1
+  fields:
+    name: test
+    uid: category-dhgvr
+    display_name: 默认
+    created_by: 1
+    modified_by: 1
+    owned_by: 1
+    is_active: true
+    created: 2020-10-29T09:31:21.263Z
+    modified: 2020-10-29T09:31:21.263Z

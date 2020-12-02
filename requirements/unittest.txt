@@ -1,0 +1,5 @@
+-r base.txt
+
+coverage==5.0.3
+unittest-xml-reporting
+responses==0.10.15

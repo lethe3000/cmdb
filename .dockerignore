@@ -1,0 +1,8 @@
+venv
+.idea
+*.sqlite
+logs
+.coverage
+htmlcov
+unittest.xml
+sonar-project.properties

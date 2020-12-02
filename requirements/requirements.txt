@@ -1,0 +1,11 @@
+-r base.txt
+
+# Rancher client sdk
+# git+https://github.com/rancher/client-python.git@master
+
+# Database
+## export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib"
+## export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include"
+## env LDFLAGS="-I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib"
+mysqlclient==1.4.6
+uWSGI==2.0.18
